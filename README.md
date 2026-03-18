@@ -8,6 +8,7 @@ For more details see API Documentation: https://app.electricitymaps.com/develope
 
 
 The sculpture was fully designed by me in Autodesk Fusion 360 (CAD files provided). The mechanism works by utilizing 6 standard microservos (but a little nicer than usual since they have threaded shafts and metal gears) to tilt the "paddles". 
+<img width="902" height="860" alt="image" src="https://github.com/user-attachments/assets/0bd1a0a3-344d-40cd-ac6d-14f23a367200" />
 
 Materials: 
 - 120 Neopixel LEDs:
