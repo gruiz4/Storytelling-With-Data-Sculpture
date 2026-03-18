@@ -1,0 +1,4 @@
+Adafruit CircuitPython 10.1.3 on 2026-02-21; LOLIN S3 PRO 16MB Flash 8MB PSRAM with ESP32S3
+Board ID:lolin_s3_pro
+UID:C348729ED948
+MAC:30:A6:CB:3F:40:E3
